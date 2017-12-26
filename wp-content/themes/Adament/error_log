@@ -1,0 +1,17 @@
+[01-Mar-2016 14:21:20 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/esenz2kd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/header.php on line 10
+[01-Mar-2016 14:21:20 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/esenz2kd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/FB/FB.php on line 45
+[01-Mar-2016 14:21:20 Etc/GMT] PHP Fatal error:  Call to undefined function is_front_page() in /home/esenz2kd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/footer.php on line 12
+[01-Mar-2016 14:21:22 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenz2kd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/archive.php on line 10
+[01-Mar-2016 14:21:22 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/esenz2kd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/404.php on line 8
+[13-Mar-2016 16:53:51 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/esenz2kd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/FB/FB.php on line 45
+[13-Mar-2016 16:53:51 Etc/GMT] PHP Fatal error:  Call to undefined function is_front_page() in /home/esenz2kd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/footer.php on line 12
+[08-Jul-2016 03:21:10 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/FB/FB.php on line 45
+[26-Jul-2016 10:48:26 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/404.php on line 8
+[01-Aug-2016 21:15:36 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/archive.php on line 10
+[03-Aug-2016 20:25:46 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/FB/FB.php on line 45
+[06-Aug-2016 03:54:32 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/FB/FB.php on line 45
+[07-Aug-2016 17:01:27 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/header.php on line 10
+[07-Aug-2016 17:01:29 Etc/GMT] PHP Fatal error:  Call to undefined function is_front_page() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/footer.php on line 12
+[11-Aug-2016 00:53:44 Etc/GMT] PHP Fatal error:  Call to undefined function add_filter() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/FB/FB.php on line 45
+[20-Mar-2017 02:08:05 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/404.php on line 8
+[24-Mar-2017 08:09:13 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/Adament/404.php on line 8

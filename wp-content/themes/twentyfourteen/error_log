@@ -1,0 +1,2 @@
+[06-Mar-2017 13:12:56 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/twentyfourteen/404.php on line 10
+[06-Mar-2017 13:28:51 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/senzixwd/public_html/SMARTERGOVERNMENT/wp-content/themes/twentyfourteen/404.php on line 10
